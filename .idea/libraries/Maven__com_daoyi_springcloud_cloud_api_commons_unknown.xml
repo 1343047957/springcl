@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.daoyi.springcloud:cloud-api-commons:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/daoyi/springcloud/cloud-api-commons/unknown/cloud-api-commons-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/daoyi/springcloud/cloud-api-commons/unknown/cloud-api-commons-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/daoyi/springcloud/cloud-api-commons/unknown/cloud-api-commons-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
